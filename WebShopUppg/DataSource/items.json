@@ -1,0 +1,39 @@
+[
+  {
+    "imgUrl": "https://www.freeiconspng.com/thumbs/iphone-6-png/white-iphone-6-png-image-22.png",
+    "itemid": 101,
+    "name": "iphone 6",
+    "price": 279
+  },
+  {
+    "imgUrl": "https://img.pngio.com/samsung-galaxy-s9-with-free-samsung-tablet-and-jbl-noise-samsung-s9-png-600_600.png",
+    "itemid": 102,
+    "name": "Samsung s9",
+    "price": 999
+  },
+  {
+    "imgUrl": "https://www.apple.com/v/imac/n/images/meta/imac__e1je78vrze2q_og.png?202110290804",
+    "itemid": 103,
+    "name": "imac",
+    "price": 1999
+  },
+  {
+    "imgUrl": "https://www.server2u.net/image/cache/catalog/Product%20IMG/Dell/Laptop/7420-500x500.png  ",
+    "itemid": 104,
+    "name": "Dell L7420",
+    "price": 499
+  },
+  {
+    "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1617130317000",
+    "itemid": 105,
+    "name": "iphone 12",
+    "price": 1599
+  },
+  {
+    "imgUrl": "https://www.ljudochbild.se/wp-content/uploads/2020/02/Galaxy-Z-Flip_main_clean_WEB.jpg",
+    "itemid": 106,
+    "name": "samsung galaxy flip",
+    "price": 1699
+  }
+]
+

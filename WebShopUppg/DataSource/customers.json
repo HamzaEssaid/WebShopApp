@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "f_name": "Ralph",
+    "l_name": "Broke-Milanes",
+    "receipt": ";106;102"
+  },
+  {
+    "Id": 2,
+    "f_name": "John",
+    "l_name": "Smith",
+    "receipt": ";103"
+  },
+  {
+    "Id": 3,
+    "f_name": "Anna",
+    "l_name": "Lindgren",
+    "receipt": ";101;103;104"
+  },
+  {
+    "Id": 4,
+    "f_name": "Hamzi",
+    "l_name": "Cray",
+    "receipt": ";102;103"
+  },
+  {
+    "Id": 5,
+    "f_name": "Miro",
+    "l_name": "Caos",
+    "receipt": ";104;102;103;106"
+  }
+]

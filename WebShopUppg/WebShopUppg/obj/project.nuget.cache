@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HonFFGqKcExSlZbplU4EqF3932iFZ+3QqSM+mTM1/WGIoTYz3tj6UGXLE0H3hg5mGQAr6vA4aNUvWxnbLb1/Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\New PC\\source\\repos\\WebShopUppg\\WebShopUppg\\WebShopUppg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\New PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwjwqQITIyJQgpQ62SXcWHHFvzH1MRoOUznbvdNe09NqHGwUp07idiONO2ZETMkxFGa+XwF3oEW2mM24+/gDXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\New PC\\source\\repos\\WebShopUppg\\DTOs\\DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\New PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
